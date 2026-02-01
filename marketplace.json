@@ -1,0 +1,12 @@
+{
+  "name": "asgard",
+  "displayName": "Asgard Trading",
+  "description": "Trade leveraged long/short positions on Solana via Asgard Finance",
+  "version": "0.1.0",
+  "author": "asgard-finance",
+  "repository": "https://github.com/asgard-finance/asgard-agent-skill",
+  "categories": ["defi", "trading", "solana", "crypto"],
+  "keywords": ["margin", "leverage", "trading", "solana", "defi", "asgard"],
+  "icon": "https://asgard.finance/logo.png",
+  "homepage": "https://asgard.finance"
+}
